@@ -1,0 +1,40 @@
+.grid {
+  width: 100vw;
+  height: 100vh;
+  background-image: url('background.png');
+  position: relative;
+  font-size: 25rem;
+  text-align: center;
+}
+
+.doodler {
+  width: 500px;
+  height: 500px;
+  background-image: url('tger.png');
+  position: absolute;
+}
+
+.platform {
+  width: 500px;
+  height: 200px;
+  background-image: url('platform.png');
+  position: absolute;
+}
+
+button{
+  background-color: #7b38d8;
+  border-radius: 10px;
+  border: 4px double #cccccc;
+  color: #eeeeee;
+  text-align: center;
+  font-size: 15rem;
+  padding: 20px;
+  width: 100vw;
+  height: 25vh;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
