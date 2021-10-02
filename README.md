@@ -1,4 +1,10 @@
-# Doodle-Jump
+Copyright (c) 2021 VITE LA VITA:
+Modified Doodle Jump proyect based on a project mentioned above.
+I will continue modifying this project on the future, any pulls are welcomed! 
+Permisson is granted after confirmation
+
+
+--> Doodle-Jump
 Doodle Jump clone in JavaScript, HTML and CSS
 
 ### MIT Licence
@@ -12,4 +18,3 @@ The above copyright notice and this permission notice shall be included in all c
 *Translation: Ofcourse you can use this for you project! Just make sure to say where you got this from :)
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
